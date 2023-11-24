@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Programmeringsolympiaden\Reduplikation\bin\Debug\net7.0\Reduplikation.exe
+C:\Users\Admin\Documents\Programmeringsolympiaden\Reduplikation\bin\Debug\net7.0\Reduplikation.deps.json
+C:\Users\Admin\Documents\Programmeringsolympiaden\Reduplikation\bin\Debug\net7.0\Reduplikation.runtimeconfig.json
+C:\Users\Admin\Documents\Programmeringsolympiaden\Reduplikation\bin\Debug\net7.0\Reduplikation.dll
+C:\Users\Admin\Documents\Programmeringsolympiaden\Reduplikation\bin\Debug\net7.0\Reduplikation.pdb
+C:\Users\Admin\Documents\Programmeringsolympiaden\Reduplikation\obj\Debug\net7.0\Reduplikation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Programmeringsolympiaden\Reduplikation\obj\Debug\net7.0\Reduplikation.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Programmeringsolympiaden\Reduplikation\obj\Debug\net7.0\Reduplikation.AssemblyInfo.cs
+C:\Users\Admin\Documents\Programmeringsolympiaden\Reduplikation\obj\Debug\net7.0\Reduplikation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Programmeringsolympiaden\Reduplikation\obj\Debug\net7.0\Reduplikation.dll
+C:\Users\Admin\Documents\Programmeringsolympiaden\Reduplikation\obj\Debug\net7.0\refint\Reduplikation.dll
+C:\Users\Admin\Documents\Programmeringsolympiaden\Reduplikation\obj\Debug\net7.0\Reduplikation.pdb
+C:\Users\Admin\Documents\Programmeringsolympiaden\Reduplikation\obj\Debug\net7.0\Reduplikation.genruntimeconfig.cache
+C:\Users\Admin\Documents\Programmeringsolympiaden\Reduplikation\obj\Debug\net7.0\ref\Reduplikation.dll
